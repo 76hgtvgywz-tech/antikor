@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: http://antikor-msk.ru
+Sitemap: http://antikor-auto.vercel.app/sitemap.xml
